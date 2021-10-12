@@ -1,6 +1,6 @@
 backports-abc==0.4
 backports.ssl-match-hostname==3.4.0.2
-eventlet==0.17.4
+eventlet==0.31.0
 Flask-SocketIO==1.1
 python-engineio==3.8.2.post1
 python-socketio==0.7.0
