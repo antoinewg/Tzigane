@@ -8,7 +8,7 @@ PyYAML==3.11
 simplejson==3.8.1
 singledispatch==3.4.0.3
 tornado==4.3
-wheel==0.26.0
+wheel==0.38.1
 
 bokeh==0.12.9
 appdirs==1.4.3
